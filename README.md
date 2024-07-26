@@ -66,3 +66,7 @@ The model is evaluated using validation data, and the best model is saved based 
 - Pandas
 - Matplotlib
 - OpenCV (for real-time camera input)
+
+## publication 
+
+published this project in a journal https://www.ijitee.org/portfolio-item/c98120311422/
